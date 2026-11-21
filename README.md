@@ -90,8 +90,7 @@ The goal isn't to let AI ship code unchecked. It's to give every engineer a tire
 | Project | What it shows |
 |---|---|
 | 🌐 **[jhuntersr.com](https://jhuntersr.com)** | Portfolio site on AWS: CloudFront + Route 53, Terraform across dev/test/prod, GitHub Actions with SonarQube, Trivy, Checkov & Gitleaks gates, branch protection so only the pipeline can change `main`. |
-| 🔍 **CSPM Lab** *(Wiz-style posture management)* | Prowler + Checkov + AWS Security Hub scanning a real AWS account through a Terraform-provisioned, least-privilege audit identity. |
-<!-- Swap the bold name above for a repo link once it's public, e.g. **[CSPM Lab](https://github.com/jhuntersr1-first/REPO)** -->
+| 🔍 **[CSPM with Prowler](https://github.com/jhuntersr1-first/cspm-prowler)** *(Wiz-style posture management)* | 610-check Prowler audit of a live AWS account through a Terraform-provisioned, read-only scanning identity, with findings mapped to PCI DSS, SOC 2 and ISO 27001. The Prowler container image itself was vetted with Trivy and Snyk. |
 
 ---
 
