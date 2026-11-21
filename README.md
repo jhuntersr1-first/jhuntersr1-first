@@ -109,19 +109,18 @@ The goal isn't to let AI ship code unchecked. It's to give every engineer a tire
   🏅 Certifications
 </h2>
 
-<!-- Paste your Credly badge image URLs and public badge links below -->
 <div align="center">
-  <a href="https://www.credly.com/badges/YOUR-AWS-SAA-BADGE-ID/public_url">
-    <img src="https://images.credly.com/size/340x340/images/YOUR-AWS-SAA-IMAGE.png" alt="AWS Certified Solutions Architect – Associate" width="150"/>
+  <a href="https://www.credly.com/badges/79a75b91-8208-4de2-a1db-731315e9e428/public_url">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" alt="AWS Certified Solutions Architect – Associate" width="150"/>
   </a>
-  <a href="https://www.credly.com/badges/YOUR-TERRAFORM-BADGE-ID/public_url">
-    <img src="https://images.credly.com/size/340x340/images/YOUR-TERRAFORM-IMAGE.png" alt="HashiCorp Certified: Terraform Associate" width="150"/>
+  <a href="https://www.credly.com/badges/84f834d8-0139-46f2-a4b0-dc6b287dbe29/public_url">
+    <img src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/linkedin_thumb_blob" alt="HashiCorp Certified: Terraform Associate" width="150"/>
   </a>
 </div>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/YOUR-AWS-SAA-BADGE-ID/public_url">AWS Solutions Architect – Associate</a> |
-  <a href="https://www.credly.com/badges/YOUR-TERRAFORM-BADGE-ID/public_url">HashiCorp Terraform Associate</a>
+  <a href="https://www.credly.com/badges/79a75b91-8208-4de2-a1db-731315e9e428/public_url">AWS Solutions Architect – Associate</a> |
+  <a href="https://www.credly.com/badges/84f834d8-0139-46f2-a4b0-dc6b287dbe29/public_url">HashiCorp Terraform Associate</a>
 </p>
 
 ---
